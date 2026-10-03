@@ -18,7 +18,7 @@ std::string clasificarImc(double imc) {
 }
 int main() {
  double peso, estatura;
- std::cout << "Peso (kg): ";
+ std::cout << "Peso (kg): "; 
  std::cin >> peso;
  std::cout << "Estatura (m): ";
  std::cin >> estatura;
